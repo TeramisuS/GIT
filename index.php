@@ -1,2 +1,3 @@
-<?php echo "my rapository" ?>
-<?php echo "my Name" ?>
+<?php 
+echo "<h1>my name " 
+?>
